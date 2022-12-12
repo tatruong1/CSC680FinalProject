@@ -47,7 +47,7 @@ class QuizViewController: UIViewController, AddQProtocol { //,QuestionType
             correctAnswer:"C",
             answerA: "1/3",
             answerB: "0",
-            answerC: "3",
+            answerC: "1",
             answerD: "7")
     ]
     var currentQuestionIndex = 0
